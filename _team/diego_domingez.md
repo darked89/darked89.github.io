@@ -1,6 +1,6 @@
 ---
 title: 'Diego  Domingez'
-image: '/images/team/peter-van-eijk-711986-unsplash.jpg'
+image: '/images/team/Alea_3.png'
 jobtitle: 'Torrero'
 email: 'diego.domingez@test.com'
 linkedinurl: 'https://www.linkedin.com/'
